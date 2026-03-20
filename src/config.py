@@ -179,7 +179,7 @@ class _Config:
     
     def print_status(self):
         print("=" * 55)
-        print("  Meta-Analysis Generator v5 — Config Status")
+        print("  LUMEN v1 — Config Status")
         print("=" * 55)
         
         def _mask(key: str) -> str:

@@ -1,4 +1,6 @@
-# Meta-Analysis Generator
+# LUMEN — LLM-based Unified Meta-analysis Extraction Network
+
+> **v1** — First public release
 
 Python CLI pipeline for automated systematic reviews and meta-analyses.
 Uses a chain of LLM agents (OpenRouter) built around the PICO framework.
@@ -753,7 +755,9 @@ This pipeline implements automated logging for [TRIPOD-LLM](https://tripod-llm.v
 
 ---
 
-## Changelog
+## Development Log
+
+> The entries below document the internal development history prior to the v1 public release.
 
 ### v5.7 — Dynamic Study Design Filter, Pre-screen Improvements, Phase 3→4 Gate
 

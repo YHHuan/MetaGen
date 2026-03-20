@@ -1,8 +1,8 @@
 # ============================================
-# Meta-Analysis Generator - Dependencies
+# LUMEN - Dependencies
 # ============================================
 # 安裝方式:
-#   cd meta-analysis-generator
+#   cd LUMEN
 #   python -m venv venv
 #   source venv/bin/activate  (Linux/Mac)
 #   # 或 venv\Scripts\activate (Windows)

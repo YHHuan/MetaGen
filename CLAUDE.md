@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Meta-Analysis Generator v5 — a Python CLI pipeline that automates systematic reviews and meta-analyses using a chain of LLM agents. The primary LLM provider is **OpenRouter** (OpenAI-compatible client).
+LUMEN v1 (LLM-based Unified Meta-analysis Extraction Network) — a Python CLI pipeline that automates systematic reviews and meta-analyses using a chain of LLM agents. The primary LLM provider is **OpenRouter** (OpenAI-compatible client).
 
 **Multi-project support**: Each research question lives in its own directory under `data/<project_name>/`. Every script prompts for project selection at startup. The active project is persisted in `data/.active_project`.
 

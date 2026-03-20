@@ -3,7 +3,7 @@
 Phase 1: Research Strategy Planning
 =====================================
 啟動方式:
-  cd meta-analysis-generator
+  cd LUMEN
   python -m venv venv && source venv/bin/activate
   pip install -r requirements.txt
   cp .env.example .env  # 填入 API keys
