@@ -1,0 +1,4 @@
+"comparison","direct","indirect","diff","p"
+"GLP-1RA:GLP-1RA + Metformin",NA,-0.365714486457162,NA,NA
+"GLP-1RA:Metformin",-0.0339538253338583,NA,NA,NA
+"GLP-1RA + Metformin:Metformin",0.331760661123304,NA,NA,NA
